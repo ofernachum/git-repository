@@ -1,7 +1,2 @@
 First 
-second line
-<<<<<<< HEAD
-Added Ofer in main Branch
-=======
-Adding Yaniv to 1.txt in Feature1 branch
->>>>>>> feature1
+File was modified directly at github !
